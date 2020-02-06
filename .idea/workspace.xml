@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae03a38-c55a-418f-b620-47a745bbf4f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\xampp\htdocs\wordpress\wp-content\plugins\add-demo-button" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -56,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580973299265</updated>
       <workItem from="1580973303149" duration="2099000" />
-      <workItem from="1581006153037" duration="3169000" />
+      <workItem from="1581006153037" duration="4163000" />
     </task>
     <servers />
   </component>
