@@ -1,10 +1,6 @@
 <?php
 
 /**
- * Plugin Name: Demo URL button for Woocommerce
- */
-
-/**
  * Plugin Name:       Demo URL button for Woocommerce
  * Plugin URI:        http://example.com/plugin-name-uri/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
